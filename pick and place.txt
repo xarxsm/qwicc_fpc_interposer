@@ -1,0 +1,7 @@
+VERSION = 2.0
+UUNITS = MILLIMETERS
+
+#    refdes          !   symbol_x !   symbol_y ! rotation ! mirror ! symbol_name                      ! embedded_layer                  
+#-----------------------------------------------------------------------------------------------------------------------
+J2                   !    20.0000 !     7.5000 !       90 !        ! 2005280040                       !                                 
+J1                   !     4.0000 !     7.5000 !      270 !        ! JST_SM04B-SRSS-TB                !                                 
